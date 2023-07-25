@@ -1,0 +1,19 @@
+{
+  "name": "top-todo-list",
+  "version": "1.0.0",
+  "description": "This is my take on the project \"To-Do List\", from The Odin Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
